@@ -1,0 +1,4 @@
+flask
+bore
+numpy
+dotenv
